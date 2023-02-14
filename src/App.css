@@ -1,0 +1,24 @@
+.blue{
+  background-color: blue;
+}
+
+.red{
+  background-color: red;
+}
+
+button{
+  margin-top: 20px;
+  align-content: center;
+  font-size: 1.5rem;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button:hover{
+  cursor: pointer;
+}
